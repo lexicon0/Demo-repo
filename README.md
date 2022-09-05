@@ -7,6 +7,8 @@
     git status 
     git add. 
     git commit -m "title" -m "description"
+    # modify existing file
+    git commit -am
     git push origin main
     git pull origin main
 ```
@@ -31,8 +33,10 @@ Run in PowerShell
     git diff branch_name
     git merge 
     git branch -d 
-    git commit -am
+    
 ```
 
-## test
-* world 
+## Reset
+```
+    git reset HEAD~1
+```
