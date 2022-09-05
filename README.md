@@ -30,4 +30,9 @@ Run in PowerShell
     git checkout -b new_branch_name
     git diff branch_name
     git merge 
+    git branch -d 
+    git commit -am
 ```
+
+## test
+* world 
