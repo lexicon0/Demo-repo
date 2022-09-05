@@ -6,7 +6,8 @@
     cd ./Repository
     git status 
     git add. 
-    git commit -m "title" -m "status"
+    git commit -m "title" -m "description"
+    git push origin main
 ```
 ## SSH Agent 
 Run in PowerShell
