@@ -29,4 +29,5 @@ Run in PowerShell
     git branch
     git checkout -b new_branch_name
     git diff branch_name
+    git merge 
 ```
