@@ -8,6 +8,7 @@
     git add. 
     git commit -m "title" -m "description"
     git push origin main
+    git pull origin main
 ```
 ## SSH Agent 
 Run in PowerShell
@@ -23,3 +24,10 @@ Run in PowerShell
     ssh-add path/to/private/key
 ```
 
+## Git branching
+```
+    git branch
+    git checkout -b new_branch_name
+    git diff branch_name
+    git merge 
+```
